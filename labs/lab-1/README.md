@@ -24,7 +24,7 @@ Run Ganache
 The transactions and bugs list can be seen:
 
 
-![alt text](./images/Screenshot%20from%202023-11-27%2021-27-13.png "Title")
-![alt text](./images/Screenshot%20from%202023-11-27%2021-27-27.png "Title")
-![alt text](./images/Screenshot%20from%202023-11-27%2021-27-35.png "Title")
-![alt text](./images/Screenshot%20from%202023-11-27%2021-27-52.png "Title")
+![alt text](./images/Screenshot from 2023-11-27 21-27-13.png "Title")
+![alt text](./images/Screenshot from 2023-11-27 21-27-27.png "Title")
+![alt text](./images/Screenshot from 2023-11-27 21-27-35.png "Title")
+![alt text](./images/Screenshot from 2023-11-27 21-27-52.png "Title")
